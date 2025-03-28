@@ -20,7 +20,7 @@
 將結果按自然順序排序。
 
 /**
- * 第二部分
+ * 第二部分 CommonCharacters
  *
  * -- 第二部分 --
  * private List commonCharacters(List<String> strings)
